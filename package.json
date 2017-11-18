@@ -28,13 +28,12 @@
     "cordova-browser",
     "cordova:plugin"
   ],
-  "engines": {
-    "cordovaDependencies": {
-      "7.0.0": {
-        "cordova-android": ">=6.3.0"
-      }
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
     }
-  },
+  ],
   "author": "Adobe PhoneGap Team",
   "license": "MIT",
   "bugs": {
